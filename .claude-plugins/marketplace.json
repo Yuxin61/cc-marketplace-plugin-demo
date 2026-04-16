@@ -6,7 +6,11 @@
   "plugins": [
     {
       "name": "demo-greet",
-      "source": "./plugins/demo-greet"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Yuxin61/cc-marketplace-plugin-demo.git",
+        "path": "plugins/demo-greet"
+      }
     }
   ]
 }
