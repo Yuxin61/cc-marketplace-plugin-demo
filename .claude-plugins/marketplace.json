@@ -1,0 +1,12 @@
+{
+  "name": "Yuxin's demo",
+  "owner": {
+    "name": "YUXIN LI"
+  },
+  "plugins": [
+    {
+      "name": "demo-greet",
+      "source": "./plugins/demo-greet"
+    }
+  ]
+}
