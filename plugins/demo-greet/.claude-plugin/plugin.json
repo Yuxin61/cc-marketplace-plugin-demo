@@ -1,5 +1,5 @@
 {
   "name": "greet-user",
   "description": "Adds a /demo-hi skill for greeting user.",
-  "version": "0.0.1",
+  "version": "0.0.1"
 }
