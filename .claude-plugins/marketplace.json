@@ -1,0 +1,16 @@
+{
+  "name": "Yuxin-demo",
+  "owner": {
+    "name": "YUXIN LI"
+  },
+  "plugins": [
+    {
+      "name": "demo-greet",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Yuxin61/cc-marketplace-plugin-demo.git",
+        "path": "plugins/demo-greet"
+      }
+    }
+  ]
+}
